@@ -18,12 +18,6 @@
 * [Competitions Ranking Top 100 EDA](https://www.kaggle.com/vivovinco/competitions-ranking-top-100-eda)
 
 
-## 💡 [Data Analysis:](https://github.com/VivoVinco/EDA)
-* [Rihanna Lyrics EDA](https://www.kaggle.com/vivovinco/rihanna-lyrics-eda)
-* [Future NBA Stars EDA](https://www.kaggle.com/vivovinco/future-nba-superstars-eda)
-* [Competitions Ranking Top 100 EDA](https://www.kaggle.com/vivovinco/competitions-ranking-top-100-eda)
-
-
 ## 📊 [Exploratory Data Analysis:](https://github.com/VivoVinco/EDA)
 * [Rihanna Lyrics EDA](https://www.kaggle.com/vivovinco/rihanna-lyrics-eda)
 * [Future NBA Stars EDA](https://www.kaggle.com/vivovinco/future-nba-superstars-eda)
@@ -32,6 +26,6 @@
 
 ## 📞 Follow me on:
 * [Kaggle](https://www.kaggle.com/vivovinco)
-* [Youtube](https://www.youtube.com/channel/UCumszIKuMAt1NoAjrIK4L1g)
 * [Linkedin](https://www.linkedin.com/in/esraecevar/)
-* [Github](https://github.com/VivoVinco)
+* [Youtube](https://www.youtube.com/channel/UCumszIKuMAt1NoAjrIK4L1g)
+* [Github](https://github.com/VivoVinco) 
