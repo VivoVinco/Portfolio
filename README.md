@@ -14,7 +14,6 @@
 | [Rihanna Lyrics EDA](https://www.kaggle.com/vivovinco/rihanna-lyrics-eda)      | [Rihanna Lyrics](https://www.kaggle.com/vivovinco/rihanna-lyrics)     |
 | [Future NBA Stars EDA](https://www.kaggle.com/vivovinco/future-nba-superstars-eda)      | [2021-2022 NBA Player Stats](https://www.kaggle.com/vivovinco/nba-player-stats)    |
 | [Competitions Ranking Top 100 EDA](https://www.kaggle.com/vivovinco/competitions-ranking-top-100-eda)      | [Kaggle Competitions Top 100](https://www.kaggle.com/vivovinco/kaggle-competitions-top-100)    |
-{: .tablelines}
 
 
 ## 🧹 [Data Cleaning:](https://github.com/VivoVinco/Data-Cleaning)
@@ -23,7 +22,6 @@
 | [Rihanna Lyrics EDA](https://www.kaggle.com/vivovinco/rihanna-lyrics-eda)      | [Rihanna Lyrics](https://www.kaggle.com/vivovinco/rihanna-lyrics)     |
 | [Future NBA Stars EDA](https://www.kaggle.com/vivovinco/future-nba-superstars-eda)      | [2021-2022 NBA Player Stats](https://www.kaggle.com/vivovinco/nba-player-stats)    |
 | [Competitions Ranking Top 100 EDA](https://www.kaggle.com/vivovinco/competitions-ranking-top-100-eda)      | [Kaggle Competitions Top 100](https://www.kaggle.com/vivovinco/kaggle-competitions-top-100)    |
-{: .tablelines}
 
 
 ## 📊 [Exploratory Data Analysis:](https://github.com/VivoVinco/EDA)
@@ -32,7 +30,6 @@
 | [Rihanna Lyrics EDA](https://www.kaggle.com/vivovinco/rihanna-lyrics-eda)      | [Rihanna Lyrics](https://www.kaggle.com/vivovinco/rihanna-lyrics)     |
 | [Future NBA Stars EDA](https://www.kaggle.com/vivovinco/future-nba-superstars-eda)      | [2021-2022 NBA Player Stats](https://www.kaggle.com/vivovinco/nba-player-stats)    |
 | [Competitions Ranking Top 100 EDA](https://www.kaggle.com/vivovinco/competitions-ranking-top-100-eda)      | [Kaggle Competitions Top 100](https://www.kaggle.com/vivovinco/kaggle-competitions-top-100)    |
-{: .tablelines}
 
 
 ## ☎ Follow me on:
