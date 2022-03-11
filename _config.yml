@@ -1,1 +1,6 @@
 theme: jekyll-theme-slate
+name: Data Analysis Portfolio | Esra Ece Var
+description: 
+url: "https://vivovinco.github.io/Portfolio/"
+markdown: kramdown
+highlighter: rouge
