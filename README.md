@@ -7,15 +7,13 @@
 
 
 ## 🌍 [Web Scraping:](https://github.com/VivoVinco/Web-Scraping)
-* [Rihanna Lyrics EDA](https://www.kaggle.com/vivovinco/rihanna-lyrics-eda)
-* [Future NBA Stars EDA](https://www.kaggle.com/vivovinco/future-nba-superstars-eda)
-* [Competitions Ranking Top 100 EDA](https://www.kaggle.com/vivovinco/competitions-ranking-top-100-eda)
+* [Turkish Basketball Federation Web Scraping](https://www.kaggle.com/code/vivovinco/turkish-basketball-federation-web-scraping)
+* [Coming Soon](https://www.kaggle.com/vivovinco)
 
 
 ## 🧹 [Data Cleaning:](https://github.com/VivoVinco/Data-Cleaning)
 * [Rihanna Lyrics EDA](https://www.kaggle.com/vivovinco/rihanna-lyrics-eda)
-* [Future NBA Stars EDA](https://www.kaggle.com/vivovinco/future-nba-superstars-eda)
-* [Competitions Ranking Top 100 EDA](https://www.kaggle.com/vivovinco/competitions-ranking-top-100-eda)
+* [Coming Soon](https://www.kaggle.com/vivovinco)
 
 
 ## 📊 [Exploratory Data Analysis:](https://github.com/VivoVinco/EDA)
