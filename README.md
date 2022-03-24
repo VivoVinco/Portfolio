@@ -22,7 +22,7 @@
 * [Competitions Ranking Top 100 EDA](https://www.kaggle.com/vivovinco/competitions-ranking-top-100-eda)
 
 
-## 📞 Follow me on:
+## 📞 Follow me:
 * [Kaggle](https://www.kaggle.com/vivovinco)
 * [Linkedin](https://www.linkedin.com/in/esraecevar/)
 * [Youtube](https://www.youtube.com/channel/UCumszIKuMAt1NoAjrIK4L1g)
