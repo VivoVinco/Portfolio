@@ -20,6 +20,7 @@
 * [Rihanna Lyrics EDA](https://www.kaggle.com/vivovinco/rihanna-lyrics-eda)
 * [Future NBA Stars EDA](https://www.kaggle.com/vivovinco/future-nba-superstars-eda)
 * [Competitions Ranking Top 100 EDA](https://www.kaggle.com/vivovinco/competitions-ranking-top-100-eda)
+* [Netflix EDA](https://www.kaggle.com/code/vivovinco/netflix-eda)
 
 
 ## 📞 Follow me:
