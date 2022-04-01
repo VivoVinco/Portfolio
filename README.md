@@ -1,9 +1,9 @@
-## 🚩 About me:
-* 2016 Mechanical Engineer BSc
+## 🚩 [About me:](https://www.linkedin.com/in/esraecevar/)
+* 2016 Mechanical Engineering BSc
 * 2018 Engineering Management MSc
-* 2022 Industrial Engineer MSc
+* 2022 Industrial Engineering MSc
 * 2016-2020 R&D Engineer
-* 2020-present Project and Data Engineer
+* 2020-present Project Engineer
 
 
 ## 🌍 [Web Scraping:](https://github.com/VivoVinco/Web-Scraping)
@@ -23,7 +23,7 @@
 * [Netflix EDA](https://www.kaggle.com/code/vivovinco/netflix-eda)
 
 
-## 📞 Follow me:
+## 📞 [Follow me:](https://www.kaggle.com/vivovinco)
 * [Kaggle](https://www.kaggle.com/vivovinco)
 * [Linkedin](https://www.linkedin.com/in/esraecevar/)
 * [Youtube](https://www.youtube.com/channel/UCumszIKuMAt1NoAjrIK4L1g)
