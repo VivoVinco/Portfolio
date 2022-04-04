@@ -8,11 +8,13 @@
 
 ## 🌍 [Web Scraping:](https://github.com/VivoVinco/Web-Scraping)
 * [Turkish Basketball Federation Web Scraping](https://www.kaggle.com/code/vivovinco/turkish-basketball-federation-web-scraping)
+* [NBA Stats: Web Scraping](https://www.kaggle.com/code/vivovinco/nba-stats-web-scraping)
 * [Coming Soon](https://www.kaggle.com/vivovinco)
 
 
 ## 🧹 [Data Cleaning:](https://github.com/VivoVinco/Data-Cleaning)
-* [Rihanna Lyrics EDA](https://www.kaggle.com/vivovinco/rihanna-lyrics-eda)
+* [NBA Stats: Data Cleaning](https://www.kaggle.com/code/vivovinco/nba-stats-data-cleaning)
+* [NY Tree Census: Data Cleaning](https://www.kaggle.com/code/vivovinco/ny-tree-census-data-cleaning)
 * [Coming Soon](https://www.kaggle.com/vivovinco)
 
 
