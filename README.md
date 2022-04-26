@@ -1,11 +1,3 @@
-## 🚩 [About me:](https://www.linkedin.com/in/esraecevar/)
-* 2016 Mechanical Engineering BSc
-* 2018 Engineering Management MSc
-* 2022 Industrial Engineering MSc
-* 2016-2020 R&D Engineer
-* 2020-present Project Engineer
-
-
 ## 🌍 [Web Scraping:](https://github.com/VivoVinco/Web-Scraping)
 * [Turkish Basketball Federation Web Scraping](https://www.kaggle.com/code/vivovinco/turkish-basketball-federation-web-scraping)
 * [NBA Stats: Web Scraping](https://www.kaggle.com/code/vivovinco/nba-stats-web-scraping)
@@ -25,7 +17,13 @@
 * [Netflix EDA](https://www.kaggle.com/code/vivovinco/netflix-eda)
 
 
-## 📞 [Follow me:](https://www.kaggle.com/vivovinco)
+## 💻 [Machine Learning:](https://github.com/VivoVinco/Machine-Learning)
+* [Unsupervised Anomaly Detection in Beehives](https://www.kaggle.com/code/vivovinco/unsupervised-anomaly-detection-in-beehives)
+* [NBA Stats: MVP Prediction](https://www.kaggle.com/code/vivovinco/nba-stats-mvp-prediction)
+* [Coming Soon](https://www.kaggle.com/vivovinco)
+
+
+## 📞 [About me:](https://www.linkedin.com/in/esraecevar/)
 * [Kaggle](https://www.kaggle.com/vivovinco)
 * [Linkedin](https://www.linkedin.com/in/esraecevar/)
 * [Youtube](https://www.youtube.com/channel/UCumszIKuMAt1NoAjrIK4L1g)
